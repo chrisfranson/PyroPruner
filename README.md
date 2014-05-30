@@ -4,8 +4,8 @@ PyroPruner
 Removes unused language files from your PyroCMS installation.
 
 ## Usage
-	1. Indicate which language you want to keep by setting the 'keeplanguage' and 'keeplang' variables.
-	2. Run prune-langs.sh from inside your PyroCMS document root.
+ 1. Indicate which language you want to keep by setting the 'keeplanguage' and 'keeplang' variables.
+ 2. Run prune-langs.sh from inside your PyroCMS document root.
 
 ## Savings
 
